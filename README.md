@@ -2,6 +2,17 @@
 
 This is a project page to investige the very low cost chinese wifi camera doorbelbs that are available on the market.  With the long term goal to be able to reflash the hardware or reverse engineer them in someway to improve the software and make then usual for home automation and IOT.
 
+## Example Device Links
+
+https://www.amazon.co.uk/Smart-Wireless-Doorbell-Camera-Plug/dp/B074X5V743/ref=lp_7187472031_1_15?srs=7187472031&ie=UTF8&qid=1511989879&sr=8-15
+
+https://www.amazon.co.uk/Vstarcam-Doorbell-Digital-Doorcam-Andorid/dp/B074TD9C63/ref=sr_1_10?ie=UTF8&qid=1511992073&sr=8-10&keywords=wifi+doorbell+camera
+
+## Product Videos
+
+https://www.youtube.com/watch?v=jitsaQnD0uc
+
+
 ## Initial Notes
 These are initial thoughts based on available photos and videos online
 
