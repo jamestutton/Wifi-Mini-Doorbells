@@ -29,3 +29,20 @@ This is where the system gets worrying.  From info so far it appears that the im
 In an ideal mod these devices would be flashed so that all traffic and image storage happens to a local FTP/NAS or other storage device.  From there a home automation system could pickup the image and notify.  Ultimately there should be no need for the image to go via a 3rd party or unknown service.  The use should be able to setup the server be it local or dropbox or other service of there choosing.  Some sort of MQTT pub/sub notification would also be ideal.  
 
 
+## TODO
+* Hands on Test in Safe Network
+* Hardware Teardown and photos
+* Circuit Traces
+* IC identification
+* Protocol Capture
+* Protocal Analysys
+* Current Draw
+* Wifi Packet Traces
+* Remote Server Investigation
+* Mains unit safety
+
+
+
+## Support
+
+If anyone else has the skills and interest in these devices then please contribute I am by no means an expert but just have a n interest in IOT. These little doorbells just perked my interest as are only $30/£20 and having considered building a similar unit myself these seem far better if can be understood and implemented securely as come pre build with nice boxes and mains wireing etc handled.   
