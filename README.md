@@ -1,6 +1,6 @@
 # Wifi-Mini-Doorbells
 
-This is a project page to investige the very low cost chinese wifi camera doorbelbs that are available on the market.  With the long term goal to be able to reflash the hardware or reverse engineer them in someway to improve the software and make then usual for home automation and IOT.
+This is a project page to investige the very low cost chinese wifi camera doorbells that are available on the market.  With the long term goal to be able to reflash the hardware or reverse engineer them in someway to improve the software and make then usual for home automation and IOT.
 
 ## Example Device Links
 
